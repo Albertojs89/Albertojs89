@@ -35,9 +35,10 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| 🎮 BITEPIXE Portal | Web de análisis de videojuegos, comunidad interactiva y rankings. | HTML, CSS, PHP, MySQL |
-| 💄 Portfolio Estilista – Xavi Valverde | Portfolio profesional para maquillador especializado en cine, televisión y eventos. Web personalizada con enfoque visual y adaptable. | Figma, UI/UX, HTML, CSS, JavaScript, React, Bootstrap |
+| 🎮 BITEPIXE Portal | Web de análisis de videojuegos, comunidad interactiva y rankings. | HTML, CSS, Bootstrap, PHP, MySQL |
+| 💄 Portfolio Estilista – Xavi Valverde | Portfolio profesional para maquillador especializado en cine, televisión y eventos. Web personalizada con enfoque visual y adaptable. | Figma, UI/UX, HTML, CSS, JavaScript, React, Tailwind |
 | 🌐 Portfolio Personal – Alberto Jiménez | Proyecto visual dinámico y modular como carta de presentación personal. Diseño UI/UX cuidado, enfoque minimalista y tecnologías modernas. *(En desarrollo)* | Figma, UI/UX, HTML, CSS, JavaScript, React, Tailwind |
+| 🎮 Portfolio Interactivo – My self | Portfolio narrativo, con experiencia interactiva, ilustrada y diseñada por mi. | HTML, CSS, JavaScript, React, Tailwind |
 
 <p><i>...Y más ideas en camino</i> 🚧</p>
 
@@ -46,7 +47,7 @@
 ### 📫 ¿Conectamos?
 - ✉ bertocover@gmail.com
 - 💼 https://www.linkedin.com/in/alberto-jim%C3%A9nez-s%C3%A1nchez-5ab368211/
-- 🌍 Portfolio próximamente 
+- 🌍 https://www.albertojs.com/ 
 
 ---
 
