@@ -15,7 +15,7 @@
 ### 🛠 Tecnologías & Herramientas que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,php,bootstrap,tailwind,figma,illustrator,photoshop,git,github,vscode,chatgpt" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,php,supabase,bootstrap,tailwind,figma,illustrator,photoshop,git,github,vscode,chatgpt,copilot" />
 </p>
 
 ---
@@ -35,8 +35,9 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| 🎮 BITEPIXE Portal | Web de análisis de videojuegos, comunidad interactiva y rankings. | HTML, CSS, Bootstrap, PHP, MySQL |
-| 💄 Portfolio Estilista – Xavi Valverde | Portfolio profesional para maquillador especializado en cine, televisión y eventos. Web personalizada con enfoque visual y adaptable. | Figma, UI/UX, HTML, CSS, JavaScript, React, Tailwind |
+| 🐾 CanDo | Dog Training & Progress Tracker - https://cando.albertojs.com/ - | Aplicación diseñada para ayudarte a educar a tu perro con consejos prácticos y reales de educadores caninos. Combina un sistema de planes personalizados, seguimiento diario y recompensas visuales que te motivan a continuar. | HTML, Javascript, React, CSS, Tailwind, Supabase, MySQL |
+| 🎮 BITEPIXE Portal - https://albertojs89.alwaysdata.net/BITEPIXE/index.php -| Web de análisis de videojuegos, comunidad interactiva y rankings. | HTML, CSS, Bootstrap, PHP, MySQL |
+| 💄 Portfolio Estilista (en desarrollo) – Xavi Valverde | Portfolio profesional para maquillador especializado en cine, televisión y eventos. Web personalizada con enfoque visual y adaptable. | Figma, UI/UX, HTML, CSS, JavaScript, React, Tailwind |
 | 🌐 Portfolio Personal – Alberto Jiménez - www.albertojs.com | Proyecto visual dinámico y modular como carta de presentación personal. Diseño UI/UX cuidado, enfoque minimalista y tecnologías modernas. *(En desarrollo)* | Figma, UI/UX, HTML, CSS, JavaScript, React, Tailwind |
 | 🎮 Portfolio Interactivo – My self - https://myself.albertojs.com/| Portfolio narrativo, con experiencia interactiva, ilustrada y diseñada por mi. | HTML, CSS, JavaScript, React, Tailwind |
 
@@ -45,9 +46,10 @@
 
 
 ### 📫 ¿Conectamos?
+- 🌍 https://www.albertojs.com/ 
 - ✉ bertocover@gmail.com
 - 💼 https://www.linkedin.com/in/alberto-jim%C3%A9nez-s%C3%A1nchez-5ab368211/
-- 🌍 https://www.albertojs.com/ 
+
 
 ---
 
