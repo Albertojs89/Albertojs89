@@ -35,7 +35,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| 🐾 CanDo | Dog Training & Progress Tracker - https://cando.albertojs.com/ - | Aplicación diseñada para ayudarte a educar a tu perro con consejos prácticos y reales de educadores caninos. Combina un sistema de planes personalizados, seguimiento diario y recompensas visuales que te motivan a continuar. | HTML, Javascript, React, CSS, Tailwind, Supabase, MySQL |
+| 🐾 CanDo 'Dog Training & Progress Tracker' - https://cando.albertojs.com/ - | Aplicación diseñada para ayudarte a educar a tu perro con consejos prácticos y reales de educadores caninos. Combina un sistema de planes personalizados, seguimiento diario y recompensas visuales que te motivan a continuar. | HTML, Javascript, React, CSS, Tailwind, Supabase, MySQL |
 | 🎮 BITEPIXE Portal - https://albertojs89.alwaysdata.net/BITEPIXE/index.php -| Web de análisis de videojuegos, comunidad interactiva y rankings. | HTML, CSS, Bootstrap, PHP, MySQL |
 | 💄 Portfolio Estilista (en desarrollo) – Xavi Valverde | Portfolio profesional para maquillador especializado en cine, televisión y eventos. Web personalizada con enfoque visual y adaptable. | Figma, UI/UX, HTML, CSS, JavaScript, React, Tailwind |
 | 🌐 Portfolio Personal – Alberto Jiménez - www.albertojs.com | Proyecto visual dinámico y modular como carta de presentación personal. Diseño UI/UX cuidado, enfoque minimalista y tecnologías modernas. *(En desarrollo)* | Figma, UI/UX, HTML, CSS, JavaScript, React, Tailwind |
